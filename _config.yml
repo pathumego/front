@@ -1,7 +1,7 @@
 title: Jekyll-Store
 description: 'A lightweight, backend-free ecommerce solution.'
 baseurl: /front
-url: 'http://pathumego.github.io/'
+url: 'http://pathumego.github.io/front'
 
 # Jekyll-Store Engine
 defaultAddress:
